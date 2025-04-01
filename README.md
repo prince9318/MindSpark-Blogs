@@ -61,3 +61,11 @@ This is a full-stack blogging application built with a **React** frontend and an
    ```bash
    cd backend
    ```
+2. Install dependencies:
+   ```
+   npm install or yarn
+   ```
+3. Start the development server:
+   ```
+   npm run dev
+   ```
