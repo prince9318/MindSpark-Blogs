@@ -1,4 +1,4 @@
-# Public Blog Application
+# MindSpark-Blogs Website
 
 This is a full-stack blogging application built with a **React** frontend and an **Express.js** backend. The application allows users to register, log in, create blogs, view blogs, and manage their blogs through a dashboard.
 
