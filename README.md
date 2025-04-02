@@ -6,7 +6,7 @@ This is a full-stack blogging application built with a **React** frontend and an
 
 ### Frontend
 
-- Built with **React** and **Vite** for fast development.
+- Built with **Vite** for fast development.
 - **TailwindCSS** for responsive and modern UI design.
 - **axios** for robust HTTP requests and API communication
 - **React Router** for navigation.
